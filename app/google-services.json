@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "613705925907",
+    "project_id": "muhtas1weather-c5704",
+    "storage_bucket": "muhtas1weather-c5704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613705925907:android:84379e690f4614f09106e6",
+        "android_client_info": {
+          "package_name": "com.tamer.muhtas1Weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDzkDdpE4VRjoKk0Ym_iGRojfT_NhO7SA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
