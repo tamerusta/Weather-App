@@ -1,4 +1,4 @@
-# AI Chat Application</p>
+# Weather Application</p>
 
 
 ## Overview
@@ -8,8 +8,8 @@ Weather application using OpenWeatherMap API, where you can access the weather o
 ## Technologies
 
 -Kotlin
--Firebase
--OpenWeatherMap API
+</p>-Firebase
+</p>-OpenWeatherMap API
 
 
 ## Screenshots
