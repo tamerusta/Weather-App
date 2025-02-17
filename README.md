@@ -17,9 +17,9 @@ Weather application using OpenWeatherMap API, where you can access the weather o
 
 <div style="display: flex; flex-wrap: wrap;">
     <img width="200" alt="weather1" src="https://github.com/user-attachments/assets/b6468a86-3a00-4c4b-89f5-cff8c7bc2b68">
-    <img width="200" alt="chatbot2" src="https://github.com/user-attachments/assets/f49a9571-58ae-470d-9e77-22e981d51423">
-    <img width="200" alt="chatbot2" src="https://github.com/user-attachments/assets/6c4a7f01-7d5f-4cf0-a2a9-e235707b05ff">
-    <img width="610" alt="chatbot2" src="https://github.com/user-attachments/assets/1cc427f3-a3e2-4f38-a2d4-373b20dacb48">
+    <img width="200" alt="weather2" src="https://github.com/user-attachments/assets/f49a9571-58ae-470d-9e77-22e981d51423">
+    <img width="200" alt="weather3" src="https://github.com/user-attachments/assets/6c4a7f01-7d5f-4cf0-a2a9-e235707b05ff">
+    <img width="610" alt="weather4" src="https://github.com/user-attachments/assets/1cc427f3-a3e2-4f38-a2d4-373b20dacb48">
 </div>
 
 
